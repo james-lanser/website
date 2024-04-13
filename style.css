@@ -1,3 +1,4 @@
+/* Navigation */
 body {
 	margin: 0;
 	padding: 0;
@@ -36,7 +37,7 @@ nav ul li a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;*/
-	background: linear-gradient(to bottom right,
+	background: linear-gradient(to top left,
 								rgba(237, 213, 158, 0.7),
 								rgba(0, 181, 226, 0.7),
 								rgba(251, 144, 98, 0.7),
@@ -47,6 +48,22 @@ nav ul li a {
 .contact-bg {
 	color: white;
 	background: url(Contact/moi.jpeg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.write-bg {
+	color: white;
+	background: url(Write/compass-dim.jpeg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.sound-bg {
+	color: white;
+	background: url(Sound/pastel.jpeg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
