@@ -47,7 +47,7 @@ nav ul li a {
 }
 .contact-bg {
 	color: white;
-	background: url(contact/moi.jpeg);
+	background: url(Contact/moi.jpeg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -55,7 +55,7 @@ nav ul li a {
 }
 .write-bg {
 	color: white;
-	background: url(write/compass-dim.jpeg);
+	background: url(Write/compass-dim.jpeg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -63,7 +63,7 @@ nav ul li a {
 }
 .sound-bg {
 	color: white;
-	background: url(sound/pastel.jpeg);
+	background: url(Sound/pastel.jpeg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
