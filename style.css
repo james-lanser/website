@@ -119,6 +119,14 @@ nav ul li a {
 	max-width: auto;
 	max-height: 200px;
 }
+/* Write doc image blocks */
+.gallery-txt {
+	max-width: auto;
+	max-height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
 /* Lightbox Specific */
 #lightbox {
 	position: fixed;
