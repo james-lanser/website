@@ -142,3 +142,12 @@ nav ul li a {
 	justify-content: center;
 	align-items: center;
 }
+/* Footer */
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: whitesmoke;
+	text-align: center;
+}
